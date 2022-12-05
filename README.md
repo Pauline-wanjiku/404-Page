@@ -37,7 +37,7 @@
 ## Overview
 Above I have linked a url for the demo solution.
 
-This project was a enjoyable to build it being a simple page helped me undestanding how tailwing works. Some of the things I learnt and undestood better was grid and media query since the project was web responsive.
+Enjoyable project to build, it being a simple page helped me undestanding how tailwind works. Some of the things I learnt and undestood better was grid and media query since the project was web responsive.
 
 Lesson learnt:Build simple and small while learning a new technology this helps with having a stronger foundation for more complex and bigger projects.
 
