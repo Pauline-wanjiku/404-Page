@@ -35,12 +35,10 @@
 <!-- OVERVIEW -->
 
 ## Overview
-project's screenshot:
-![screenshot]https://pagenotfoundproject.netlify.app/images/Scarecrow.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 Above I have linked a url for the demo solution.
-This project was a enjoyable to build it being a simple page helped me undestanding how tailwing works. Some of the things I learnt and undestood better was grid and media query since the project was web responsive..
+
+This project was a enjoyable to build it being a simple page helped me undestanding how tailwing works. Some of the things I learnt and undestood better was grid and media query since the project was web responsive.
+
 Lesson learnt:Build simple and small while learning a new technology this helps with having a stronger foundation for more complex and bigger projects.
 
 
